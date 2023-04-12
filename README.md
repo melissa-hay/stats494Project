@@ -32,5 +32,6 @@ Project Organization
     │   ├── processed      <- The final, canonical data sets for modeling.
     │   └── interim        <- Intermediate data that has been transformed.
     │   └── raw            <- The original, immutable data dump.
+    ├── report             <- The folder for the final report 
     │
     ├── notebooks          <- Notebooks in R 
